@@ -46,7 +46,7 @@ AndroidJUnitRunner is a new unbundled test runner for Android. It features:
 
 ## JUnit4 Rules
 
-With the Android Testing Support Library we provide a set of JUnit rules to be used with the [Android JUnit Runner]({{ site.baseurl }}/atsl/androidjunitrunner-guide/index.html). JUnit rules provide more flexibility and reduce the boilerplate code required in tests.
+With the Android Testing Support Library we provide a set of JUnit rules to be used with the [Android JUnit Runner]({{ site.baseurl }}/docs/androidjunitrunner-guide/index.html). JUnit rules provide more flexibility and reduce the boilerplate code required in tests.
 
 [Read more about the JUnit4 Rules]({{ site.baseurl }}/docs/rules/index.html).
 
